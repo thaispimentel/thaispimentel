@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thais!</h1>
-<h3 align="center">A passionate for numbers and data analysis</h3>
+<h3 align="center">A passionate for Numbers and Data Analysis </h3>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
