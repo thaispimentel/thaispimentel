@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 💬 Ask me about **Statistic, SQL, Power BI, Excel and Python**
+- 💬 Ask me about **Statistic, SQL, Power BI and Excel**
 
 - 📫 How to reach me **thaisrosapp@gmail.com**
 
