@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub profile!</h1>
 
-<h2 align="left">🗨 Sobre mim:</h2>
+<h2 align="left">🗨 About me:</h2>
 I’m Thais! I have a degree in Engineering and Accounting and am currently pursuing a Micromaster in Statistics and Data Science. I have a passion for numbers, logic, and technology, and I'm always looking to enhance my knowledge to make data-driven decisions. I'm eager to take on new challenges and explore new technologies.
 
 <h2 align="left">🖥 Tech Skills</h2>
